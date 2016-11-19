@@ -1,2 +1,2 @@
 # ejabberd-erlang-stuff
-Some tools that helps me compiling ejabberd modules
+Some tools that help me compiling ejabberd modules
